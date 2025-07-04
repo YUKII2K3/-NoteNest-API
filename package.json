@@ -1,0 +1,28 @@
+{
+  "name": "notenest-api",
+  "version": "1.0.0",
+  "description": "A student-focused tutorial and notes management API built with Node.js, Express, and MongoDB",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "rest",
+    "api",
+    "mongodb",
+    "notes",
+    "tutorial",
+    "student"
+  ],
+  "author": "Yuktheshwar",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^6.11.1"
+  }
+}
