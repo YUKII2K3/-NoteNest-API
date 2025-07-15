@@ -374,8 +374,8 @@ This project is licensed under the **ISC License** - see the [LICENSE](LICENSE) 
 
 ### 📞 Contact
 - **GitHub**: [@YUKII2K3](https://github.com/YUKII2K3)
-- **Email**: [Your Email]
-- **LinkedIn**: [Your LinkedIn]
+- **Email**: [yuktheshwarshali@gmail.com]
+- **LinkedIn**: [https://www.linkedin.com/in/yuktheshwar-mp]
 
 ---
 
